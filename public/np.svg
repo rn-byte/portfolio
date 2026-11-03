@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 510">
+  <polygon points="0,0 420,240 180,240 420,510 0,510" fill="#003893"/>
+  <polygon points="18,30 366,228 162,228 366,480 18,480" fill="#DC143C"/>
+  <!-- Sun & Moon symbols simplified vector -->
+  <path fill="#FFFFFF" d="M110,140 a50,50 0 1,0 60,70 a65,65 0 0,1 -60,-70 z"/>
+  <polygon points="120,380 135,395 155,390 145,405 155,420 135,415 120,430 115,410 95,415 105,400 95,385 115,390" fill="#FFFFFF"/>
+</svg>
