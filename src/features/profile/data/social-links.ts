@@ -10,13 +10,13 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     icon: "https://assets.chanhdai.com/images/link-icons/linkedin.webp?t=1759581475",
     title: "LinkedIn",
-    description: "ram-n-thakur",
-    href: "https://www.linkedin.com/in/ram-n-thakur-b3277318b",
+    description: "ram-thakur",
+    href: "https://www.linkedin.com/in/rnt8f/",
   },
-  {
-    icon: "https://assets.chanhdai.com/images/link-icons/x.webp?t=1759581475",
-    title: "X (Formerly Twitter)",
-    description: "@unreal_rn",
-    href: "https://x.com/unreal_rn",
-  },
+  // {
+  //   icon: "https://assets.chanhdai.com/images/link-icons/x.webp?t=1759581475",
+  //   title: "X (Formerly Twitter)",
+  //   description: "@unreal_rn",
+  //   href: "https://x.com/unreal_rn",
+  // },
 ];
