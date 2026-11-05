@@ -15,7 +15,7 @@ export function ChanhDaiMark(props: React.ComponentProps<"svg">) {
         fontSize="32"
         letterSpacing="3"
       >
-        RN_
+        rnt
       </text>
     </svg>
   );
